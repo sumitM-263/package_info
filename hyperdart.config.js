@@ -24,7 +24,7 @@ export default {
   },
   permissions: {},
   info: {
-    github: 'https://github.com/<user>/<repo>',
+    github: 'https://github.com/sumitM-263/package_info',
     demovideo: 'https://youtu.be/aWWLAUc7vho'
   },
 }
